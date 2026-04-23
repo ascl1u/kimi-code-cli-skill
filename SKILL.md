@@ -2,7 +2,7 @@
 name: kimi-code-cli
 description: Delegate coding tasks to Kimi Code CLI (Moonshot AI's terminal coding agent). Use for feature work, refactors, PR review, batch scripts, and iterative sessions. Requires the `kimi` CLI installed and logged in.
 version: 1.0.0
-author: [Andy Liu](https://github.com/ascl1u)
+author: "Andy Liu"
 license: MIT
 metadata:
   hermes:
